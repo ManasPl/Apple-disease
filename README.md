@@ -46,7 +46,6 @@ The model is compiled using the Adam optimizer, sparse categorical crossentropy 
 
 The predict function in the backend queries the trained model to make predictions on the uploaded images.
 
+## Conclusion
 
-
-Conclusion
 This repository provides a comprehensive system for predicting apple diseases, including a React frontend, FastAPI backend, and a trained deep learning model. Customize the system based on your requirements and experiment with different components to enhance performance.
