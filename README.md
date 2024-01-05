@@ -18,7 +18,7 @@ The frontend provides an intuitive user interface for uploading images. Users ca
 
 ## Backend
 
-The backend employs FastAPI, a modern, fast, and web-based framework for building APIs. The Swagger documentation allows users to explore and test the API endpoints easily. 
+The backend employs FastAPI, a modern, fast, and web-based framework for building APIs. 
 
 ## Deep Learning Model
 
